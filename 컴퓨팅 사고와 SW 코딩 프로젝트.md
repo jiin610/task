@@ -1,4 +1,3 @@
-<img width="2631" height="1280" alt="image" src="https://github.com/user-attachments/assets/cd7defe9-7b67-49d1-b8bf-843aa749f636" />
 | 전공   | 학번         | 이름  |
 | :--- | :--------- | :-- |
 | 통계학과 | 2024004917 | 정지인 |
