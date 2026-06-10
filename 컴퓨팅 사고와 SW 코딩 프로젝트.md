@@ -38,7 +38,7 @@
 - **핵심 로직:** 분석할 단일 텍스트 파일의 경로를 입력받아 데이터를 읽어오는 기본 구조
     
 - **적용 기술:** 띄어쓰기가 없는 언어(중국어 번체자 등)의 분석을 위해 형태소 분석 라이브러리(`jieba`) 및 deep-translator 라이브러리로 Google 번역 API를 호출
-###### 결과물
+###### 결과물(실제사용예시)
 <img width="4096" height="4096" alt="image" src="https://github.com/user-attachments/assets/e32ab013-ba84-41de-840f-f09869696385" />
 <img width="2631" height="1280" alt="image" src="https://github.com/user-attachments/assets/007a568d-fce2-4bfd-ab72-9673fb2ca552" />
 <img width="1280" height="1935" alt="image" src="https://github.com/user-attachments/assets/3b835af3-187a-4bc0-ad67-58fef5cedb4e" />
@@ -65,6 +65,10 @@
 - **파일당 평균 등장 횟수 도출:** 누적 빈도를 유효 파일 개수로 나누는 파생 변수 컬럼을 추가하여, 특정 문서에 편향되지 않은 범용적인 '핵심 단어' 지표 제공
 
 ###### 결과물(실제 사용 예시)
+<img width="4096" height="2497" alt="image" src="https://github.com/user-attachments/assets/9bfbc91e-5a5b-4fc7-974e-7452ef4a65f4" />
+<img width="1059" height="678" alt="image" src="https://github.com/user-attachments/assets/f0b53857-4414-4c8b-8045-c0d20709cf6e" />
+<img width="844" height="354" alt="image" src="https://github.com/user-attachments/assets/ebd5d29f-9e7e-4b37-9ec8-6c50912bc3ea" />
+<img width="510" height="571" alt="image" src="https://github.com/user-attachments/assets/82b75c3d-7bb0-43ad-9b0d-38e44be307a5" />
 
 
 
